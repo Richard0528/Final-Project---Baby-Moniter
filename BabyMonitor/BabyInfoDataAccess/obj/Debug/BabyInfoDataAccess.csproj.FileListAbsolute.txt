@@ -1,0 +1,12 @@
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyInfoDataAccess\bin\Debug\BabyInfoDataAccess.dll.config
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyInfoDataAccess\bin\Debug\BabyInfoDataAccess.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyInfoDataAccess\bin\Debug\BabyInfoDataAccess.pdb
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyInfoDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyInfoDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyInfoDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyInfoDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyInfoDataAccess\obj\Debug\BabyInfoDataAccess.csprojAssemblyReference.cache
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyInfoDataAccess\obj\Debug\BabyInfoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyInfoDataAccess\obj\Debug\BabyInfoDataAccess.csproj.CopyComplete
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyInfoDataAccess\obj\Debug\BabyInfoDataAccess.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyInfoDataAccess\obj\Debug\BabyInfoDataAccess.pdb

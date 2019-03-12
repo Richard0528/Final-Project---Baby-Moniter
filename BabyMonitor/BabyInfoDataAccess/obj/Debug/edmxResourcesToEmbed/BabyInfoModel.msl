@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BabyInfoModelStoreContainer" CdmEntityContainer="BabyInfoEntities">
+    <EntitySetMapping Name="Temp_Hum_Sound">
+      <EntityTypeMapping TypeName="BabyInfoModel.Temp_Hum_Sound">
+        <MappingFragment StoreEntitySet="Temp_Hum_Sound">
+          <ScalarProperty Name="event_date" ColumnName="event_date" />
+          <ScalarProperty Name="temp" ColumnName="temp" />
+          <ScalarProperty Name="humidity" ColumnName="humidity" />
+          <ScalarProperty Name="sound" ColumnName="sound" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

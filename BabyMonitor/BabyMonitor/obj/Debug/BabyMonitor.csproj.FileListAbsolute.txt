@@ -1,0 +1,272 @@
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\BabyMonitor.dll.config
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\BabyMonitor.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\BabyMonitor.pdb
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\csc.exe
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\csc.exe.config
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\csc.rsp
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\csi.exe
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\csi.exe.config
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\csi.rsp
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.AppContext.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Console.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.Compression.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.Pipes.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Claims.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.ValueTuple.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Xml.XPath.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\vbc.exe
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\vbc.exe.config
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\vbc.rsp
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\VBCSCompiler.exe
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\Antlr3.Runtime.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\Newtonsoft.Json.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Net.Http.Formatting.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.Helpers.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.Http.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.Http.WebHost.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.Mvc.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.Optimization.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.Razor.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.Razor.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\WebGrease.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\Newtonsoft.Json.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Net.Http.Formatting.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.Helpers.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.Http.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.Http.WebHost.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.Mvc.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.Optimization.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.Razor.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.Razor.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\Antlr3.Runtime.pdb
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csprojAssemblyReference.cache
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csproj.CoreCompileInputs.cache
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csproj.CopyComplete
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.dll
+C:\Users\90457\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.pdb
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csprojAssemblyReference.cache
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csproj.CoreCompileInputs.cache
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.pdb
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\BabyMonitor.dll.config
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\BabyMonitor.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\BabyMonitor.pdb
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\csc.exe
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\csc.exe.config
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\csc.rsp
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\csi.exe
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\csi.exe.config
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\csi.rsp
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.AppContext.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Console.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.Compression.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.Pipes.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Claims.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.ValueTuple.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Xml.XPath.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\vbc.exe
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\vbc.exe.config
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\vbc.rsp
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\VBCSCompiler.exe
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Antlr3.Runtime.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Newtonsoft.Json.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Net.Http.Formatting.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Helpers.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Http.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Http.WebHost.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Mvc.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Optimization.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Razor.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.Razor.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\WebGrease.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Newtonsoft.Json.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Net.Http.Formatting.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Helpers.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Http.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Http.WebHost.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Mvc.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Optimization.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Razor.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.Razor.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Antlr3.Runtime.pdb
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csproj.CopyComplete
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\EntityFramework.xml
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\BabyInfoDataAccess.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\EntityFramework.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\EntityFramework.SqlServer.dll
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\BabyInfoDataAccess.pdb
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\BabyInfoDataAccess.dll.config
+C:\Users\richa\Google 云端硬盘（monester@uw.edu）\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\EntityFramework.SqlServer.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csprojAssemblyReference.cache
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csproj.CoreCompileInputs.cache
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.pdb
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\BabyMonitor.dll.config
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\BabyMonitor.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\BabyMonitor.pdb
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\csc.exe
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\csc.exe.config
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\csc.rsp
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\csi.exe
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\csi.exe.config
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\csi.rsp
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.AppContext.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Console.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.Compression.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.IO.Pipes.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Claims.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.ValueTuple.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Xml.XPath.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\vbc.exe
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\vbc.exe.config
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\vbc.rsp
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\VBCSCompiler.exe
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Antlr3.Runtime.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\BabyInfoDataAccess.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\EntityFramework.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\EntityFramework.SqlServer.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Newtonsoft.Json.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Net.Http.Formatting.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Helpers.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Http.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Http.WebHost.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Mvc.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Optimization.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Razor.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.Razor.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\WebGrease.dll
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\BabyInfoDataAccess.pdb
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\BabyInfoDataAccess.dll.config
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\EntityFramework.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\EntityFramework.SqlServer.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Newtonsoft.Json.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Net.Http.Formatting.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Helpers.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Http.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Http.WebHost.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Mvc.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Razor.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.WebPages.Razor.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\System.Web.Optimization.xml
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\bin\Antlr3.Runtime.pdb
+C:\Users\90457\Google Drive\Class resources\TCSS559\project\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csproj.CopyComplete

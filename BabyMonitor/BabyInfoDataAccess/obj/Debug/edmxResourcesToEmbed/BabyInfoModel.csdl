@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BabyInfoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Temp_Hum_Sound">
+    <Key>
+      <PropertyRef Name="event_date" />
+    </Key>
+    <Property Name="event_date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="temp" Type="Double" />
+    <Property Name="humidity" Type="Double" />
+    <Property Name="sound" Type="Double" />
+  </EntityType>
+  <EntityContainer Name="BabyInfoEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Temp_Hum_Sound" EntityType="Self.Temp_Hum_Sound" />
+  </EntityContainer>
+</Schema>
